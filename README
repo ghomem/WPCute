@@ -1,1 +1,15 @@
 A simple bootstrap login widget + Wordpress user database + per user Cute File Browser hack
+
+Customize website name and URL at:
+
+WPCute/secure.php
+WPCute/index.php
+WPCute/customer_folder_template/logout.php
+WPCute/customer_folder_template/index.php
+
+before replicating customer_folder_template the structure.
+
+Wordpress directory has to be set at
+
+WPCute/index.php
+
