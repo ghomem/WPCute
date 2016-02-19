@@ -10,7 +10,7 @@ require_once("../secure.php");
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-	<title>Customer Area | Caroline Pimenta</title>
+	<title>Customer Area | My site</title>
 
 	<!-- Include our stylesheet -->
 	<link href="assets/css/styles.css" rel="stylesheet"/>
