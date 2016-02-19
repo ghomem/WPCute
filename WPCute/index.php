@@ -76,11 +76,11 @@ if ( $must_go_on ) {
     <meta name="description" content=" | " />
     <meta charset="UTF-8" />
     <link rel='stylesheet' id='options_typography_Righteous-css'  href='//fonts.googleapis.com/css?family=Righteous&#038;subset=latin' type='text/css' media='all' />
-    <link rel="stylesheet" type="text/css" media="all" href="http://mysite.com/website/wp-content/themes/theme52175/bootstrap/css/bootstrap.css" />
-    <link rel="stylesheet" type="text/css" media="all" href="http://mysite.com/website/wp-content/themes/theme52175/bootstrap/css/responsive.css" />
-    <link rel="stylesheet" type="text/css" media="all" href="http://mysite.com/website/wp-content/themes/CherryFramework/css/camera.css" />
-    <link rel="stylesheet" type="text/css" media="all" href="http://mysite.com/website/wp-content/themes/theme52175/style.css" />
-    <link rel='stylesheet' id='contact-form-7-css'  href='http://mysite.com/website/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.3.1' type='text/css' media='all' />
+    <link rel="stylesheet" type="text/css" media="all" href="http://mysite.mydomain/website/wp-content/themes/theme52175/bootstrap/css/bootstrap.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="http://mysite.mydomain/website/wp-content/themes/theme52175/bootstrap/css/responsive.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="http://mysite.mydomain/website/wp-content/themes/CherryFramework/css/camera.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="http://mysite.mydomain/website/wp-content/themes/theme52175/style.css" />
+    <link rel='stylesheet' id='contact-form-7-css'  href='http://mysite.mydomain/website/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.3.1' type='text/css' media='all' />
     <style type='text/css'>
         body { background-color:#222222 }
         body { font-weight: normal;}
@@ -95,7 +95,7 @@ if ( $must_go_on ) {
         h6 { font: normal 12px/20px Roboto, sans-serif;  color:#ffffff; }
      </style>
 
-    <! -- override base definitions for form behaviour -->
+    <!-- override base definitions for form behaviour -->
     <style type='text/css'>
 	body {
 	  padding-top: 40px;

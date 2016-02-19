@@ -4,5 +4,7 @@ Customize Wordpress location, website name and URL at:
 
 WPCute/config.php
 
-Customize HTML before replicating customer_folder_template the structure.
+Customize HTML and CSS before replicating the customer_folder_template structure:
 
+WPCute/index.php
+WPCute/customer_folder_template/index.php
