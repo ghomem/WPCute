@@ -1,7 +1,11 @@
+<?php
+
 $WPDIR = "../../website/";
-$MYSITE="mysite.eu";
-$TOPDIR="myfiles/customers";
-$ERRORMSG="Don't go there Dave";
+$MYSITE = "mysite.mydomain/";
+$TOPDIR = "myfiles/customers/";
+$ERRORMSG = "Don't go there Dave";
 $REDIRBASE = "http://".$MYSITE.$TOPDIR;
 $REDIRERROR = "http://".$MYSITE."/website/404";
-$REDIRURL = "http://".$MYSITE./website";
+$REDIRURL = "http://".$MYSITE."/website";
+$MSG404 = '<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN"><html><head><title>404 Not Found</title></head><body><h1>Not Found</h1><p>The requested URL {{ DUMMYURL }} was not found on this server.</p></body></html>'
+?>

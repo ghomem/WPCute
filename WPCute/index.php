@@ -11,6 +11,9 @@
 /* definitions */ 
 
 require_once("config.php");
+// we need this to auth against Wordpress
+define('WP_USE_THEMES', false);
+require( $WPDIR."/wp-load.php");
 
 /* helper functions */
 
@@ -41,10 +44,6 @@ function wp_user_pass_ok($user_login, $user_pass) {
 }
 
 /* main code */
-
-// we need this to auth against Wordpress
-define('WP_USE_THEMES', false);
-require( $WPDIR."/wp-load.php");
 
 // flag that controls the auth status
 $must_go_on = false;

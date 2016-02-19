@@ -21,11 +21,11 @@ require_once("../secure.php");
 <body>
 
 	<div class="menu">
-                        <a href="http://mysite.eu/website">HOME</a>
-                        <a href="http://mysite.eu/website/about">ABOUT</a>
-                        <a href="http://mysite.eu/website/portfolio">PORTFOLIO</a>
-                        <a href="http://mysite.eu/website/contacts">CONTACTS</a>
-                        <a href="http://mysite.eu/myfiles/customers">CUSTOMER AREA</a>
+                        <a href="http://mysite.mydomain/website">HOME</a>
+                        <a href="http://mysite.mydomain/website/about">ABOUT</a>
+                        <a href="http://mysite.mydomain/website/portfolio">PORTFOLIO</a>
+                        <a href="http://mysite.mydomain/website/contacts">CONTACTS</a>
+                        <a href="http://mysite.mydomain/myfiles/customers">CUSTOMER AREA</a>
                         <a href="logout.php">LOGOUT</a>
 	</div>
 
