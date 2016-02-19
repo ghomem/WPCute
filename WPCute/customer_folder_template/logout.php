@@ -1,6 +1,6 @@
 <?php
 
-$REDIRURL = "http://carolinepimenta.eu/website";
+$REDIRURL = "http://mysite.eu/website";
 
 // we must not be called directly
 session_start();
