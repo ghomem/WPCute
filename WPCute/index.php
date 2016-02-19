@@ -10,9 +10,7 @@
 
 /* definitions */ 
 
-$WPDIR = "../../website/";
-$REDIRBASE = "http://mysite.com/myfiles/customers/";
-$REDIRERROR = "http://mysite.com/website/404";
+require_once("config.php");
 
 /* helper functions */
 

@@ -1,6 +1,6 @@
 <?php
 
-$REDIRURL = "http://mysite.eu/website";
+require_once("../config.php");
 
 // we must not be called directly
 session_start();

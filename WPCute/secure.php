@@ -1,8 +1,6 @@
 <?php
 
-$MYSITE="mysite.eu";
-$TOPDIR="myfiles/customers";
-$ERRORMSG="Don't go there Dave";
+require_once("config.php");
 
 // security checks
 
